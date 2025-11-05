@@ -1,0 +1,27 @@
+# Core Framework
+streamlit
+
+# Environment Variables
+python-dotenv
+
+# AI & LangChain
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-classic
+
+# OpenAI LLM
+openai
+
+# PDF Handling
+pypdf2
+
+# Data Handling
+requests
+
+# Tools & APIs
+serpapi
+
+# Optional (depending on your APIs)
+tqdm
